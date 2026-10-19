@@ -15,7 +15,8 @@ const budgets = [
     directory: chunksDir,
     pattern: /^@localSearchIndex.*\.js$/,
     expected: 2,
-    raw: 760_000,
+    // The communication chapter adds a full bilingual page to the local index.
+    raw: 780_000,
     gzip: 230_000,
   },
   {

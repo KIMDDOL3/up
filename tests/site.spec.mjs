@@ -1490,7 +1490,7 @@ test("home guide paths are grouped by purpose and keep third-party resources dis
   await expect(zhGroups.nth(3).getByRole("heading", { level: 2, name: "第三方资源" })).toBeVisible();
   await expect(zhGroups.nth(0).locator(".guide-path")).toHaveCount(4);
   await expect(zhGroups.nth(1).locator(".guide-path")).toHaveCount(2);
-  await expect(zhGroups.nth(2).locator(".guide-path")).toHaveCount(5);
+  await expect(zhGroups.nth(2).locator(".guide-path")).toHaveCount(6);
   await expect(zhGroups.nth(2).getByRole("link", { name: /^珍惜身边的人/ })).toHaveAttribute(
     "href",
     "./threads/part-2/care-and-carry-on",
@@ -1504,7 +1504,7 @@ test("home guide paths are grouped by purpose and keep third-party resources dis
   await expect(enGroups.nth(0).getByRole("heading", { level: 2, name: "Build the Foundation" })).toBeVisible();
   await expect(enGroups.nth(1).getByRole("heading", { level: 2, name: "Amplify Ability with Tools" })).toBeVisible();
   await expect(enGroups.nth(2).getByRole("heading", { level: 2, name: "Enter Real Life" })).toBeVisible();
-  await expect(enGroups.nth(2).locator(".guide-path")).toHaveCount(5);
+  await expect(enGroups.nth(2).locator(".guide-path")).toHaveCount(6);
   await expect(enGroups.nth(2).getByRole("link", { name: /^Care for the People Nearby/ })).toHaveAttribute(
     "href",
     "./threads/part-2/care-and-carry-on",

@@ -35,6 +35,7 @@
 - [回声篇：不要把逃避写成浪漫](threads/part-2/x-misc.md)
 - [恢复篇：先把自己接住](threads/part-2/recovery.md)
 - [选择篇：在不确定中做决定](threads/part-2/decision.md)
+- [沟通篇：让彼此被听见](threads/part-2/communication.md)
 - [关系篇：在关系中成为成年人](threads/part-2/relationships.md)
 - [珍惜篇：从爱与牵挂中获得力量](threads/part-2/care-and-carry-on.md)
 - [创业篇：从野心到使命](threads/part-2/entrepreneurship.md)

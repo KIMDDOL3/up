@@ -1,7 +1,7 @@
 ---
 title: 人生进阶指南｜AI 时代终身学习
 description: 《人生进阶指南》帮助普通人在 AI 时代持续学习、完成真实项目、穿越人生低谷并留下成长证据。
-updated: 2026-10-09
+updated: 2026-10-12
 ---
 
 # 人生进阶指南
@@ -11,6 +11,10 @@ updated: 2026-10-09
 **韩先凯 著（笔名：离谱）**
 
 副标题：**AI 时代终身学习指南**。这是一份持续更新的书稿，从英语这扇具体的门出发，写到 AI 学习、真实项目、创业失败、身体恢复，以及一个普通人怎样把生活一点点交还给自己。
+
+当您在茫茫书海里翻到这一页，愿这不只是一次阅读的开始，也是一场我们共同照看生活的相遇。我把这些文字写在走过风浪之后：有过意气用事的青春，也有过不得不慢下来的日子；有些答案是在行动里找到的，有些至今仍没有答案。这里留下的不是一条保证成功的捷径，而是我在学习、失去、恢复和重新出发时，愿意交给你的真实记录。
+
+你可以带着一个问题来，也可以只在今天需要的时候读几页。你不必先证明自己足够自律、足够聪明，才配得到帮助；也不必一次读完。若某一段恰好说中了你的疲惫，请把它当作一盏小灯；若它不适合你的处境，也请保留拒绝的自由。希望我们在这些页面里，慢慢学会更诚实地表达、更温柔地倾听，也在每一次回到生活时，找到一点继续向前的力气。
 
 **你会得到：** 一套中英双语开放书稿、可下载的 EPUB/PDF、可复制的工作表，以及一条从五分钟起步、用十四天复测、在九十天后复盘的实践路径。
 
@@ -66,6 +70,8 @@ AI 正在让答案变得前所未有地廉价。几秒钟里，我们可以得�
 
 我是韩先凯，也叫离谱，现任中国词元云计算有限公司董事长。我把这里的方法放进学习、开发、企业服务和真实生活中检验。身份与商业关系会被写在明处；能力、产品与收入结果，只接受作品、用户、成本和时间留下的证据。
 
+这份项目后来在 GitHub 上获得了许多读者和关注，但我不愿意把星标当成创业成功的证明。它更像一扇重新打开的门：我曾经因为公司失败而关闭 GitHub，后来又从英语学习的写作重新回到代码、产品和真实问题。想知道这条路怎样从第一次把产品交给陌生人，走到软件公司倒闭、回到原处恢复，再走向新的 AI 实体产业探索，可以阅读[创业篇](threads/part-2/entrepreneurship.md)和[我的故事](threads/part-2/my-story.md)。那里保留的不只是后来被看见的部分，也包括当时没有保护好的人、没有算清的账，以及我至今仍在承担的歉疚。
+
 这份指南反复练习一个循环：
 
 **发现问题 → 主动学习 → 与 AI 协作 → 完成真实任务 → 保存证据 → 复盘迁移**
@@ -98,6 +104,7 @@ AI 正在让答案变得前所未有地廉价。几秒钟里，我们可以得�
     <div class="guide-path-group-items">
       <a class="guide-path" href="./threads/part-1/8-job-search-english"><strong>海外求职与远程协作</strong>把岗位描述拆成招聘沟通、项目说明、陌生追问和异步写作，用真实样本判断这一场面试还缺什么。</a>
       <a class="guide-path" href="./threads/part-4/family-learning"><strong>家庭与中学生学习</strong>让孩子参与定义目标，让家长保护环境、隐私与安全，用十四天证据替代监控、代做和焦虑加码。</a>
+      <a class="guide-path" href="./threads/part-2/communication"><strong>沟通篇：让彼此被听见</strong>从观察、感受、需要和请求开始，在表达、倾听、拒绝与修复之间保留尊重和选择。</a>
       <a class="guide-path" href="./threads/part-2/care-and-carry-on"><strong>珍惜身边的人</strong>把关心落到倾听、照料与具体分担中，在双方愿意、能力允许时接受支持，为牵挂保留温度，也为彼此保留边界。</a>
       <a class="guide-path" href="./threads/part-2/my-story"><strong>人生复盘与恢复</strong>承认失败和代价，在失序之后重新建立判断、秩序与行动。</a>
       <a class="guide-path" href="./projects"><strong>作者项目与现实实践</strong>公开关联、用途、更新时间和非赞助关系，让信任不必靠猜。</a>
@@ -132,7 +139,7 @@ AI 正在让答案变得前所未有地廉价。几秒钟里，我们可以得�
 | --- | --- | --- |
 | 阅读指南与序章 | 我从哪里进入，又为什么要重新开始？ | [阅读指南](threads/part-0/reader-guide.md) · [先不要急着改变人生](threads/part-0/prologue.md) |
 | 第一部：打开输入 | 怎样建立英语和世界之间的通道，并把能力带进面试与远程协作？ | [本部导语](threads/part-1/open-input.md) · [CEFR 自测](threads/part-1/0-cefr.md) · [词汇](threads/part-1/2-vocabulary.md) · [语法](threads/part-1/grammar.md) · [听力](threads/part-1/3-listening.md) · [阅读](threads/part-1/4-reading.md) · [口语](threads/part-1/5-speaking.md) · [写作](threads/part-1/6-writing.md) · [求职英语](threads/part-1/8-job-search-english.md) |
-| 第二部：把自己放回生活 | 能力、事业、关系、失败、选择与恢复怎样互相影响，又怎样在珍惜与分担中继续生活？ | [本部导语](threads/part-2/return-to-life.md) · [我的故事](threads/part-2/my-story.md) · [我还在这里：从抑郁焦虑的黑暗中走出来](threads/part-2/depression-anxiety-recovery.md) · [叙事与证据](threads/part-2/narrative-and-evidence.md) · [恢复、选择与关系](threads/part-2/recovery.md) · [珍惜与分担](threads/part-2/care-and-carry-on.md) · [创业](threads/part-2/entrepreneurship.md) |
+| 第二部：把自己放回生活 | 能力、事业、关系、失败、选择与恢复怎样互相影响，又怎样在珍惜与分担中继续生活？ | [本部导语](threads/part-2/return-to-life.md) · [我的故事](threads/part-2/my-story.md) · [我还在这里：从抑郁焦虑的黑暗中走出来](threads/part-2/depression-anxiety-recovery.md) · [叙事与证据](threads/part-2/narrative-and-evidence.md) · [恢复、选择与沟通](threads/part-2/recovery.md) · [沟通篇](threads/part-2/communication.md) · [关系篇](threads/part-2/relationships.md) · [珍惜与分担](threads/part-2/care-and-carry-on.md) · [创业](threads/part-2/entrepreneurship.md) |
 | 第三部：借工具放大能力 | 怎样使用 AI，而不把判断力和注意力一起外包？ | [本部导语](threads/part-3/amplify-ability.md) · [AI 学习](threads/part-3/1-ai-learning.md) · [注意力、作品与证据](threads/part-3/3-attention-and-judgment.md) · [项目实践](threads/part-3/2-ai-development-and-resource-layer.md) |
 | 第四部：实践与恢复 | 学习如何回到身体、家庭与日常，并在需要时保护未成年学习者的主体性？ | [本部导语](threads/part-4/practice-and-recovery.md) · [第一周实践](threads/part-4/week-1.md) · [家庭学习](threads/part-4/family-learning.md) · [生活系统](threads/part-4/daily-system.md) · [节律](threads/part-4/rhythm-and-compounding.md) |
 | 第五部：行动与长期改变 | 怎样完成九十天，也让方法在真实项目和九十天以后继续接受检验？ | [本部导语](threads/part-5/long-term-action.md) · [九十天行动篇](threads/part-5/90-day-plan.md) · [本书案例](threads/part-5/book-as-proof.md) · [九十天以后](threads/part-5/after-90-days.md) |
@@ -198,6 +205,8 @@ AI 可以降低探索、学习和创造的门槛，却不能替你建立信誉�
 如果四项能力差异很大，不要取平均分替自己下结论。先用[英语能力诊断](templates/english-diagnostic.md)保存同一主题下的听、读、说、写首版，再为每项选一个障碍和证据卡；七天后做平行任务，三十天后复测一项真实交付。这样，认知篇的总方法才会真正进入下一次练习。
 
 ## 人生复盘与恢复：经验也需要重新解释
+
+新增的[沟通篇：让彼此被听见](threads/part-2/communication.md)把观察、感受、需要和请求带回家庭、亲密关系与工作现场，再与关系篇的边界、修复和离开相互参照。
 
 [我的故事](threads/part-2/my-story.md)、[叙事与证据篇](threads/part-2/narrative-and-evidence.md)、[回声篇](threads/part-2/x-misc.md)、[恢复篇](threads/part-2/recovery.md)、[选择篇](threads/part-2/decision.md)、[关系篇](threads/part-2/relationships.md)、[珍惜篇](threads/part-2/care-and-carry-on.md)、[创业篇](threads/part-2/entrepreneurship.md)和[旧文归档](threads/archive/README.md)保留了失败、身体失序、关系变化、离开与重返。回望不是为了把过去装饰成励志故事，而是把事实、伤害、责任和运气重新分开，辨认哪些决定有效、哪些代价不能忽略，以及下一次怎样活得更诚实。珍惜篇继续把这份理解带回身边的人：练习表达关心、分担实际事务，并在双方愿意时接受支持。
 

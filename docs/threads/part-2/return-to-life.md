@@ -34,7 +34,8 @@ updated: 2026-10-04
 | 重新认识身体与情绪 | [我还在这里：从抑郁焦虑的黑暗中走出来](depression-anxiety-recovery.md) | 抑郁、焦虑、停药风险、求助与恢复中的微小动作 |
 | 重读故事 | [叙事与证据](narrative-and-evidence.md) · [回声篇](x-misc.md) | 当时的版本、回望的解释和下一次可检验的动作 |
 | 先接住自己 | [恢复篇](recovery.md) | 安全、基本照料、支持网络和最小秩序 |
-| 重新选择 | [选择篇](decision.md) · [关系篇](relationships.md) | 可逆性、边界、影响与修复条件 |
+| 重新选择 | [选择篇](decision.md) | 可逆性、代价、影响与复查条件 |
+| 让彼此被听见 | [沟通篇：让彼此被听见](communication.md) · [关系篇](relationships.md) | 观察、感受、需要、请求、边界与修复 |
 | 珍惜与分担 | [珍惜篇：从爱与牵挂中获得力量](care-and-carry-on.md) | 具体关心、照料劳动、双方容量、拒绝空间和可以减轻的负荷 |
 | 面对事业 | [创业篇](entrepreneurship.md) | 用户、现金流、技术债、团队责任和停止门槛 |
 

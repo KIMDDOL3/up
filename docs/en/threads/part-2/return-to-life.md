@@ -34,7 +34,8 @@ These questions do not have one answer. People have different bodies, money, res
 | Relearn the body and emotions | [I Am Still Here: Coming Through Depression, Anxiety, and the Dark](depression-anxiety-recovery.md) | Depression, anxiety, medication-stopping risks, help-seeking, and small actions in recovery |
 | Read the story again | [Narrative and Evidence](narrative-and-evidence.md) · [Echoes](x-misc.md) | The version then, the explanation now, and an action that can be tested next |
 | Catch yourself first | [Recovery](recovery.md) | Safety, basic care, support, and minimum order |
-| Choose again | [Decision-Making](decision.md) · [Relationships](relationships.md) | Reversibility, boundaries, impact, and conditions for repair |
+| Choose again | [Decision-Making](decision.md) | Reversibility, cost, impact, and review conditions |
+| Let each other be heard | [Communication: Let Each Other Be Heard](communication.md) · [Relationships](relationships.md) | Observation, feeling, need, request, boundaries, and repair |
 | Care and share the load | [Care: Finding Strength in the People We Love](care-and-carry-on.md) | Practical care, care work, both people's capacity, room to refuse, and loads that can be reduced |
 | Face the venture | [Entrepreneurship](entrepreneurship.md) | Users, cash flow, technical debt, team responsibility, and stopping gates |
 

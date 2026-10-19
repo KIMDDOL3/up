@@ -1,7 +1,7 @@
 ---
 title: "Life Level-up Guide | Lifelong Learning in the AI Era"
 description: Learning continuously in the AI era, Life Level-up Guide helps ordinary people complete real projects, move through difficult seasons, and preserve evidence of growth.
-updated: 2026-10-09
+updated: 2026-10-12
 ---
 
 # Life Level-up Guide
@@ -11,6 +11,10 @@ updated: 2026-10-09
 **By Han Xiankai, pen name “Li Pu”**
 
 Subtitle: **Lifelong Learning Guide for the AI Era**. This living manuscript begins with English and continues into AI learning, real projects, entrepreneurship, recovery, and the work of returning your life to yourself one small act at a time.
+
+When you find this page among the many books in the world, I hope it feels like more than the start of a reading session. I hope it feels like an encounter in which we can look after life together. I wrote these pages after weathering difficult seasons: an impetuous youth, times when I had to slow down, answers found through action, and questions that still have no answer. This is not a shortcut that guarantees success. It is a truthful record of learning, loss, recovery, and beginning again that I am willing to place in your hands.
+
+Bring one question, or read only a few pages because that is what you need today. You do not have to prove that you are disciplined or clever enough to deserve help, and you do not have to finish the book in one sitting. If a passage happens to speak to your tiredness, let it be a small light. If it does not fit your situation, keep the freedom to refuse it. I hope these pages help us practise more honest expression and gentler listening, then find a little strength each time we return to life.
 
 **What you get:** a bilingual open manuscript, downloadable EPUB/PDF editions, reusable worksheets, and a practice path that starts in five minutes, retests a change after fourteen days, and reviews the system after ninety days.
 
@@ -66,6 +70,8 @@ The project began in 2017 as Li Pu's English Learning Guide. English was once th
 
 My name is Han Xiankai, also known online as Li Pu, and I serve as chairman of China Token Cloud Computing Co., Ltd. I test these methods in learning, software development, enterprise services, and ordinary life. My role and commercial relationships belong in public view. Claims about ability, products, and revenue must be earned by work, users, costs, and time.
 
+This project later drew many readers and much attention on GitHub, but I do not treat stars as proof of entrepreneurial success. They feel more like a door that opened again: after the company failed, I once shut GitHub out of my life; I eventually returned through writing about English, then found my way back to code, products, and real problems. [The entrepreneurship chapter](threads/part-2/entrepreneurship.md) and [My Story](threads/part-2/my-story.md) follow that road from the first product handed to strangers, through a failed software company and recovery at home, to a new exploration of AI in the physical economy. They preserve the parts that became visible later, but also the people I did not protect well enough, the accounts I did not calculate clearly, and the guilt I still carry.
+
 The guide returns to one loop:
 
 **find a problem → learn actively → work with AI → complete a real task → preserve evidence → review and transfer**
@@ -90,6 +96,7 @@ It also keeps three kinds of claim separate:
   <section class="guide-path-group" aria-labelledby="guide-life"><div class="guide-path-group-heading"><span class="guide-path-kicker">03</span><h2 id="guide-life">Enter Real Life</h2><p>Carry learning into work, family, relationships, and the author's responsibilities.</p></div><div class="guide-path-group-items">
     <a class="guide-path" href="./threads/part-1/8-job-search-english"><strong>Global Job Search and Remote Work</strong>Turn a job description into recruiter communication, project explanation, unfamiliar follow-ups, and asynchronous writing, then use real samples to locate the next gap.</a>
     <a class="guide-path" href="./threads/part-4/family-learning"><strong>Family and Middle-School Learning</strong>Let the learner help define the goal while adults protect environment, privacy, and safety; use fourteen days of evidence instead of surveillance or substituted work.</a>
+    <a class="guide-path" href="./threads/part-2/communication"><strong>Communication: Let Each Other Be Heard</strong>Start with observation, feeling, need, and request, then keep respect and choice alive through expression, listening, refusal, and repair.</a>
     <a class="guide-path" href="./threads/part-2/care-and-carry-on"><strong>Care for the People Nearby</strong>Turn care into listening, practical help, and shared tasks. Accept support when both people are willing and able, keeping warmth and boundaries together.</a>
     <a class="guide-path" href="./threads/part-2/my-story"><strong>Life Review and Recovery</strong>Acknowledge failure and cost, then rebuild judgment, order, and action after disruption.</a>
     <a class="guide-path" href="./projects"><strong>Author Projects and Practice</strong>Make affiliations, purpose, update dates, and non-sponsorship visible so trust does not depend on guesswork.</a>
@@ -186,6 +193,8 @@ English ability is not proved by a collection of words. It is proved by what you
 When the four skills differ, do not average them into a verdict. Use the [English Diagnostic](templates/english-diagnostic.md) to preserve listening, reading, speaking, and writing first versions on one topic, choose one barrier and evidence card per skill, run a parallel task after seven days, and retest one real delivery after thirty days. This is how the learning-principles protocol enters the next attempt.
 
 ## Life Review and Recovery: Experience Also Needs Reinterpretation
+
+The new [Communication chapter](threads/part-2/communication.md) brings observation, feeling, need, and request into family, intimate, and work settings, then connects them to the Relationships chapter's boundaries, repair, and leaving.
 
 [My Story](threads/part-2/my-story.md), [Narrative and Evidence](threads/part-2/narrative-and-evidence.md), [Echoes](threads/part-2/x-misc.md), [Recovery](threads/part-2/recovery.md), [Decision-Making](threads/part-2/decision.md), [Relationships](threads/part-2/relationships.md), [Care](threads/part-2/care-and-carry-on.md), [Entrepreneurship](threads/part-2/entrepreneurship.md), and the [Archive](threads/archive/README.md) preserve failure, disrupted health, changing relationships, departure, and return. Looking back is not an attempt to decorate the past as inspiration. It separates fact, injury, responsibility, and luck so we can ask which decisions worked, which costs must not be hidden, and how to live more honestly next time. Care brings that understanding back to the people nearby: express concern, share practical tasks, and accept support when both people are willing.
 
