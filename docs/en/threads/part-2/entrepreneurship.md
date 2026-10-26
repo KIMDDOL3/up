@@ -1,7 +1,7 @@
 ---
 title: "Entrepreneurship: From Ambition to Purpose"
 description: A personal review of products, cash flow, technical debt, failure, recovery, and starting again, without offering a success formula or investment advice.
-updated: 2026-10-18
+updated: 2026-10-21
 ---
 
 # Entrepreneurship: From Ambition to Purpose
@@ -77,7 +77,7 @@ Entrepreneurship permits sincerity and hard work. It never promises compensation
 
 ## Restaurants, Hotels, and Cash Flow
 
-Outside software, I invested in a bathhouse and a hot-spring resort, and also tried private-club projects, with heavy losses. I once mentioned this only in passing because losses affected more than money; they carried fatigue, embarrassment, and helplessness.
+Outside software, I invested in a bathhouse and a hot-spring resort, and also tried private-club projects, with heavy losses. According to the records I kept at the time, the hot-spring resort project lost approximately RMB 30 million; losses from the club projects are separate. These figures are personal estimates and require financial records for formal verification. I once mentioned this only in passing because losses affected more than money; they carried fatigue, embarrassment, and helplessness.
 
 After those projects, I made a second entrepreneurial attempt in entertainment, operating bars including Hutao Li and Oscar. They were profitable at first, but the operating period was short. After going through the pandemic, they ended in heavy losses again. My recollection does not let me assign the outcome to one factor. Looking back, I want to ask whether I treated early profit as proof of long-term viability, and whether I carefully checked the operating cycle, cash flow, and exit conditions.
 
@@ -103,7 +103,7 @@ The company struggled to pay salaries and borrowed money. Management became more
 
 I still remember how that office grew quiet at night. Accounts, proposals, and unfinished plans covered the meeting table, yet no sentence could answer the product, the ledger, and the people at once. I had invited my former schoolmate, and I knew he could have stayed on a safer path. Colleagues had given years to the company and eventually had to leave through the disorder. I cannot use a later restart to explain away what they lost, or use “I learned my lesson” as a substitute for the time they actually paid.
 
-According to the records I had at the time, our combined losses exceeded twenty million yuan before other ventures. This estimate requires financial evidence for any formal conclusion. Harder than the number was guilt towards colleagues, family, and people who had trusted my judgment. Beyond the balance sheet came the discovery that something once held with certainty had been wrong at the foundation.
+According to the records I had at the time, our combined losses in the software company project exceeded RMB 20 million. The hot-spring resort project added an estimated loss of approximately RMB 30 million, with club-project losses separate. These figures are personal estimates and require financial records for any formal conclusion. Harder than the numbers was guilt towards colleagues, family, and people who had trusted my judgment. Beyond the balance sheet came the discovery that something once held with certainty had been wrong at the foundation.
 
 ## 2023: Survive Before Restarting
 

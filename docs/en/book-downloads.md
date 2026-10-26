@@ -11,20 +11,20 @@ Download the book for offline reading or printing. PDF keeps a fixed print layou
 <div class="download-grid" aria-label="Published edition downloads">
   <section class="download-card">
     <h2>English PDF</h2>
-    <p>489 pages · about 4.02 MiB · PDF 1.7</p>
+    <p>494 pages · about 4.03 MiB · PDF 1.7</p>
     <a class="download-action" href="../downloads/life-level-up-guide-en.pdf" download>Download English PDF</a>
     <details>
       <summary>View SHA-256</summary>
-      <code>ee3446eedca663f3abe9f1e94158f2f211c93b92d2438b9e92661d95d38faa47</code>
+      <code>c4ce8e9f19c03a86c23d1e42b6126d280970b83926635173b5976415000f6841</code>
     </details>
   </section>
   <section class="download-card">
     <h2>中文 PDF</h2>
-    <p>429 页 · 约 4.86 MiB · PDF 1.7</p>
+    <p>434 页 · 约 4.87 MiB · PDF 1.7</p>
     <a class="download-action" href="../downloads/life-level-up-guide-zh.pdf" download>下载中文 PDF</a>
     <details>
       <summary>查看 SHA-256</summary>
-      <code>21f1e1be03cdc2cbcbe9f4b8c700bd766a899d240646e32637f911dcd6938abf</code>
+      <code>c82310c3d9335e474b411ce220102b992e4640ea789c0051255b81dacc04e536</code>
     </details>
   </section>
   <section class="download-card">
@@ -33,7 +33,7 @@ Download the book for offline reading or printing. PDF keeps a fixed print layou
     <a class="download-action" href="../downloads/life-level-up-guide-en.epub" download>Download English EPUB</a>
     <details>
       <summary>View SHA-256</summary>
-      <code>7910993a50348140765229599d71e9a8674b875af7ae745a1da0230f58f101e4</code>
+      <code>36530c74fd204f4b0cb4e9d22abe36a1ceabd27d4af82141f76a83fd1d2ae3bd</code>
     </details>
   </section>
   <section class="download-card">
@@ -42,7 +42,7 @@ Download the book for offline reading or printing. PDF keeps a fixed print layou
     <a class="download-action" href="../downloads/life-level-up-guide-zh.epub" download>下载中文 EPUB</a>
     <details>
       <summary>查看 SHA-256</summary>
-      <code>e01d4b0d48213697582160652c5c7fcbaefec5135e25d2bcf5733d983975fd1a</code>
+      <code>377d77739de52339c7b1c6e35102f631a1236ec1f14e6ccce3518a4b91c0323d</code>
     </details>
   </section>
 </div>

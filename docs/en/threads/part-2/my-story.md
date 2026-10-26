@@ -1,7 +1,7 @@
 ---
 title: "My Story: Failure, Recovery, and Starting Again"
 description: A personal account of business setbacks, entrepreneurial losses, disrupted health and life, and finding the courage to act again after returning home.
-updated: 2026-10-18
+updated: 2026-10-21
 ---
 
 # My Story: Failure, Recovery, and Starting Again
@@ -62,7 +62,7 @@ While I was at university, I created an iOS jailbreak plugin and published it th
 
 Before I turned thirty, I often felt unstoppable. The plugin and theme businesses I started at university, followed by web-design and internet projects, brought real users or income; the small food businesses later generated good cash flow, and I rose through a software company to become a partner. Each result strengthened my belief that if I dared to try and worked hard, the next venture would succeed too. Looking back, those results included effort, timing, and luck. At the time, I treated earlier success as a promise about the future.
 
-Later, to expand my business, I invested in a bathhouse and a hot-spring resort, and also tried private-club projects. The losses were heavy, and I struggled to accept them. The certainty that I could make things work was shaken. I became frightened, panicked, and anxious, at times thinking only about how to recover what I had lost. I will not add amounts or a single explanation that I cannot verify; I can say that the losses shook my finances and my trust in my own judgment.
+Later, to expand my business, I invested in a bathhouse and a hot-spring resort, and also tried private-club projects. The losses were heavy, and I struggled to accept them. According to the records I kept at the time, the hot-spring resort project lost approximately RMB 30 million; losses from the club projects are separate. These figures are personal estimates and require financial records for verification. The certainty that I could make things work was shaken. I became frightened, panicked, and anxious, at times thinking only about how to recover what I had lost. The losses shook my finances and my trust in my own judgment.
 
 ![Some of the ventures I tried](../../../assets/things.jpeg)
 
@@ -162,7 +162,7 @@ When people get desperate, they try everything. During that period, I visited fa
 
 I knew this was not a real solution, but I still could not sleep night after night. I had no energy left at all.
 
-The losses from our group alone were more than 20 million RMB. Once the resort and club projects were included, the pressure was enormous. At the hardest point, I even considered selling Ruohan’s family home. I never borrowed a single cent from relatives. I simply could not bring myself to ask.
+The losses from our software company project alone were more than RMB 20 million. The hot-spring resort project added an estimated loss of approximately RMB 30 million, with club-project losses separate. These figures are personal estimates and require financial records for verification. The pressure was enormous. At the hardest point, I even considered selling Ruohan’s family home. I never borrowed a single cent from relatives. I simply could not bring myself to ask.
 
 I know that once certain words are spoken, relationships can change. Before borrowing money, be honest about repayment ability, relationship cost, and an exit plan; do not transfer an impossible burden to someone else.
 
