@@ -192,8 +192,8 @@ A method reveals its strength only after it enters a life. Relationships end and
 
 <div class="latest-updates">
   <figure class="latest-update">
-    <img src="../assets/latest/single-again.webp" alt="Han Xiankai with his partner" width="1000" height="1402" loading="lazy" decoding="async" fetchpriority="low" />
-    <figcaption><strong>Trusting encounter again</strong>After the end of a relationship, recovery, and the work of reorganising life, Han Xiankai has begun a new relationship. Beginning again does not erase the past, but it shows that life can keep growing.</figcaption>
+    <img src="../assets/latest/fourth-marriage.webp" alt="Han Xiankai and his partner at his fourth wedding ceremony" width="1320" height="1642" loading="lazy" decoding="async" fetchpriority="low" />
+    <figcaption><strong>Fourth wedding ceremony</strong>This photo records Han Xiankai's fourth wedding ceremony. A reflection on love and marriage: love is more than a moment of excitement; it is the daily choice to respect, take responsibility, and grow together.</figcaption>
   </figure>
   <figure class="latest-update">
     <img class="latest-update-visit-photo" src="../assets/latest/current-qwen.jpg" alt="Han Xiankai viewing a Qwen display during a visit to Alibaba" width="1706" height="1279" loading="lazy" decoding="async" fetchpriority="low" />

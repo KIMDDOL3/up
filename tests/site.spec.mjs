@@ -1351,10 +1351,13 @@ test("language navigation and representative image work", async ({ page }) => {
 test("home page shows the latest updates", async ({ page }) => {
   await page.goto("./");
   await expect(page.getByRole("heading", { level: 2, name: "现实仍在继续" })).toBeVisible();
-  const partnerPhoto = page.getByRole("img", { name: "韩先凯与伴侣的合影" });
+  const partnerPhoto = page.getByRole("img", { name: "韩先凯与伴侣在第四次婚礼上的合影" });
   const readersPhoto = page.getByRole("img", { name: "韩先凯在阿里巴巴参观千问大模型展示" });
   await expect(partnerPhoto).toBeVisible();
   await expect(readersPhoto).toBeVisible();
+  await expect(page.locator(".latest-update").first()).toContainText(
+    "爱情与婚姻的感悟：爱不只是一时的心动，也是在日常里持续选择、尊重、承担与共同成长。",
+  );
   for (const [image, extension] of [
     [partnerPhoto, /\.webp$/],
     [readersPhoto, /\.jpe?g$/],
@@ -1441,7 +1444,7 @@ test("latest home photos stay within the deferred media budget", async ({ page, 
   await page.goto("./");
   const images = [
     {
-      image: page.getByRole("img", { name: "韩先凯与伴侣的合影" }),
+      image: page.getByRole("img", { name: "韩先凯与伴侣在第四次婚礼上的合影" }),
       extension: /\.webp$/,
       contentType: "image/webp",
       maxBytes: 220_000,

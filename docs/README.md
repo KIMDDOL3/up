@@ -8,7 +8,7 @@ updated: 2026-10-20
 
 中文 | [English](en/)
 
-**韩先凯 著（笔名：离谱）**
+**韩先凯 著，绰号：法海（不懂AI）**
 
 **AI 时代终身学习指南。** 这是一份持续更新的开放书稿：从英语这扇具体的门出发，走向 AI 学习、真实项目、创业验证、生活恢复，以及一个普通人如何把生活一点点交还给自己。
 
@@ -66,7 +66,7 @@ AI 让答案变得越来越便宜：几秒钟就能得到解释、代码、计�
 
 项目在 2017 年从《离谱的英语学习指南》开始。英语曾经是全部地图，如今成为其中一条基础道路；书稿继续走向 AI 学习、项目开发、资源层创业、人生复盘和恢复。问题始终是同一个：**当世界不断改变，我还能不能继续学习、继续创造、继续成为生活的参与者？**
 
-我是韩先凯，也叫离谱，现任中国词元云计算有限公司董事长。我把这里的方法放进学习、开发、企业服务和真实生活中检验。身份与商业关系会写在明处；能力、产品和收入结果，只接受作品、用户、成本和时间留下的证据。
+我是韩先凯，也叫法海（不懂AI），现任中国词元云计算有限公司董事长。我把这里的方法放进学习、开发、企业服务和真实生活中检验。身份与商业关系会写在明处；能力、产品和收入结果，只接受作品、用户、成本和时间留下的证据。
 
 这份指南反复练习一个循环：
 
@@ -204,8 +204,8 @@ AI 可以降低探索、学习和创造的门槛，却不能替你建立信誉�
 
 <div class="latest-updates">
   <figure class="latest-update">
-    <img src="./assets/latest/single-again.webp" alt="韩先凯与伴侣的合影" width="1000" height="1402" loading="lazy" decoding="async" fetchpriority="low" />
-    <figcaption><strong>重新相信相遇</strong>经历关系结束、恢复与重新整理生活之后，韩先凯开启了一段新的恋情。重新开始不会抹去过去，但它证明生活仍然能够向前生长。</figcaption>
+    <img src="./assets/latest/fourth-marriage.webp" alt="韩先凯与伴侣在第四次婚礼上的合影" width="1320" height="1642" loading="lazy" decoding="async" fetchpriority="low" />
+    <figcaption><strong>四婚婚礼合影</strong>这张照片记录了韩先凯的第四次婚礼。爱情与婚姻的感悟：爱不只是一时的心动，也是在日常里持续选择、尊重、承担与共同成长。</figcaption>
   </figure>
   <figure class="latest-update">
     <img class="latest-update-visit-photo" src="./assets/latest/current-qwen.jpg" alt="韩先凯在阿里巴巴参观千问大模型展示" width="1706" height="1279" loading="lazy" decoding="async" fetchpriority="low" />
@@ -221,10 +221,10 @@ AI 可以降低探索、学习和创造的门槛，却不能替你建立信誉�
 
 ### 在抖音继续看
 
-扫码关注抖音账号 **中国词元集团韩先凯（抖音号：72581209403）**，获取英语训练、AI 协作、真实项目和人生进阶的短内容。二维码只提供公开账号关注入口；本站不接入广告、分析脚本或追踪器，也不会因为关注二维码收集站点访问数据。无法扫码时，可在抖音搜索“韩先凯”或抖音号 `72581209403`。
+扫码关注抖音账号 **法海韩先凯（抖音号：72581209403）**，获取英语训练、AI 协作、真实项目和人生进阶的短内容。欢迎大家多多关注我的抖音号，最近会开直播，和大家分享交流。二维码只提供公开账号关注入口；本站不接入广告、分析脚本或追踪器，也不会因为关注二维码收集站点访问数据。无法扫码时，可在抖音搜索“法海韩先凯”或抖音号 `72581209403`。
 
 <figure class="author-social-card">
-  <img src="./assets/creator-douyin.jpg" alt="抖音账号二维码：扫码关注中国词元集团韩先凯，获取英语、AI 与成长实践分享" width="360" height="538" loading="lazy" decoding="async" />
+  <img src="./assets/creator-douyin.jpg" alt="抖音账号二维码：扫码关注法海韩先凯，获取英语、AI 与成长实践分享" width="360" height="538" loading="lazy" decoding="async" />
   <figcaption>作者提供的公开账号二维码；图片元数据已清理。</figcaption>
 </figure>
 
